@@ -71,7 +71,7 @@ function change(){
          }
          }
          }
-         }else{
+lo
          goto setpin;
          }
          }else{
